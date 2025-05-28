@@ -3,9 +3,9 @@ The rdata csv and jsonl files are in gitignore because too big
 these files need to be manually added to your local
 
 How this will work:
-step 1: convert rdata to csv
+step 1: convert rdata to csv DONE
 
-step 2: create batch jsonl files from csv
+step 2: create batch jsonl files from csv DONE
 
 step 3: send batch jsonl files to openai
 
